@@ -1,0 +1,5 @@
+{
+  "name": "f Smart Waste Classifier",
+  "description": "An AI-powered application that classifies waste from an image and provides proper disposal tips.",
+  "requestFramePermissions": []
+}
